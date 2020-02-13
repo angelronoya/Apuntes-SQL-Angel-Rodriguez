@@ -64,7 +64,7 @@
   * __CONCAT__
   Sirve para 
   
-##### OLLO, TODA CONSULTA SQL DEBE REMATAR EN ;
+#### OLLO, TODA CONSULTA SQL DEBE REMATAR EN ;
 
 
 
