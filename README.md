@@ -62,7 +62,7 @@
   * __CASE__ 
   Péchase co END. Sitúase no SELECT. E depois del escríbese WHEN, o cal impón a condición. No caso contrario situase o ELSE. A estructura é a seguinte, como se mostra no seguinte exemplo (teacher.dept IN (1,2) THEN ‘Sci’ ‘Art’).
   * __CONCAT__
-  Sirve para 
+  Sirve para devolver unha cadena resultante da concatenación de dous ou máis valores. Normalmente no SELLECT.
   
 #### OLLO, TODA CONSULTA SQL DEBE REMATAR EN ;
 
